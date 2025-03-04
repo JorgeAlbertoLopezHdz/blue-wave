@@ -1,4 +1,4 @@
-import { Button, Col, Container, Row } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap";
 import { PricingCard } from "../../../components/pricing_card";
 
 export const PricingSection = () => {
